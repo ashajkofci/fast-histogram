@@ -1,5 +1,4 @@
-#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
-#define Py_LIMITED_API 0x030800f0
+#define NPY_NO_DEPRECATED_API NPY_1_8_API_VERSION
 
 #include <Python.h>
 #include <numpy/arrayobject.h>
